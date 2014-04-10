@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/gavriguy/punch-blog.png?label=ready&title=Ready)](https://waffle.io/gavriguy/punch-blog)
 # Punch Blog
 
 A boilerplate to create personal blogs based on [Punch](http://laktek.github.com/punch).
